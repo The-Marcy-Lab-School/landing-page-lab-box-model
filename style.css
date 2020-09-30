@@ -1,6 +1,61 @@
+*{
+    margin-top: 0px;
+}
+
 body {
     width:1000px; 
     margin:auto;
     text-align:center;
     background-color:rgb(180,132,132);
+    height: 100%;
+}
+
+.title-container{
+    font-size: 40px;
+}
+
+.content-container{
+    display:flex;
+    justify-content: flex-start;
+    height: inherit;
+}
+
+.title{
+    background-color: rgb(233,233,233);
+    padding: 0 80px 20px 80px;
+    
+}
+
+.side{
+    background-color: rgb(100,176,167);
+    text-align: left;
+    padding: 20px 0px 0 10px;
+    font-size: 35px;
+    width: 90%;
+}
+
+.content{
+    background-color: white;
+    text-align: left;
+    padding: 30px 40px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.white{
+    color: white;
+}
+
+.title h2{
+    font-size: 38px;
+}
+
+#figures{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+figcaption{
+    font-size: 16px;
 }
