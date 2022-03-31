@@ -44,3 +44,10 @@ header {
  background:white;
  
 }
+
+.article {
+    font-size: 20px;
+    text-align: center;
+    padding: 50px 60px;
+    
+}
