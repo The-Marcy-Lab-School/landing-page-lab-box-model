@@ -6,21 +6,41 @@ body {
 
 header {
     background-color: lavender;
-    length: 10px;
+    length: 150px;
     margin: auto;
     width: 1400px;
     margin-top: 0px;
+    
 }
 
 
 
 .rec3 {
     width: 200px;
-    length:2000px;
-    margin: inherit;
-    height:600px;
+    length:2500px;
+    margin:0px;
+    height:900px;
+    position:relative;
+    bottom:18.5px;
+    left:53px;
+    bottom:920px;
   
   
- background:green;
+ background:#64B0A7;
+ 
+}
+
+.rec4 {
+    width: 2000px;
+    length:2500px;
+    margin-right: auto;
+    height:900px;
+    position:relative;
+left:250px;
+right:200px;
+    
+  
+  
+ background:white;
  
 }
