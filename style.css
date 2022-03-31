@@ -19,11 +19,11 @@ header {
     width: 200px;
     length:2500px;
     margin:0px;
-    height:900px;
+    height:500px;
     position:relative;
     bottom:18.5px;
     left:53px;
-    bottom:920px;
+    bottom:520px;
   
   
  background:#64B0A7;
@@ -31,15 +31,15 @@ header {
 }
 
 .rec4 {
-    width: 2000px;
+    width: 1200px;
     length:2500px;
     margin-right: auto;
-    height:900px;
+    height:500px;
     position:relative;
-left:250px;
-right:200px;
+    left:250px;
+    right:200px;
+    bottom: 20px;
     
-  
   
  background:white;
  
