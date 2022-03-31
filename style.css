@@ -1,20 +1,24 @@
+
+
 body {
     background-color: rosybrown;
 }
 
 header {
     background-color: lavender;
-    
+    length: 10px;
+    margin: auto;
+    width: 1400px;
+    margin-top: 0px;
 }
 
 
 
 .rec3 {
-       width: 200px;
-       length:2000px;
-  
-      margin-left:auto;
-       height:30px;
+    width: 200px;
+    length:2000px;
+    margin: inherit;
+    height:600px;
   
   
  background:green;
