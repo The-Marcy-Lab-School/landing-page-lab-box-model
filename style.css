@@ -2,28 +2,34 @@
 
 body {
     background-color: rosybrown;
+    height: 200px;
 }
 
 header {
     background-color: lavender;
     length: 150px;
     margin: auto;
+    margin-top: auto;
     width: 1400px;
     margin-top: 0px;
+    height: 300px;
     
 }
 
+a{color:white
+}
 
 
 .rec3 {
     width: 200px;
    
     margin:0px;
-    height:500px;
+    height:1000px;
     position:relative;
     bottom:18.5px;
     left:53px;
-    bottom:520px;
+    bottom:1001px;
+    
   
   
  background:#64B0A7;
@@ -34,11 +40,12 @@ header {
     width: 1200px;
    
     margin-right: auto;
-    height:500px;
+    height:800px;
     position:relative;
     left:250px;
     right:200px;
-    bottom: 20px;
+    bottom: 1px;
+
     
   
  background:white;
@@ -51,3 +58,21 @@ header {
     padding: 50px 60px;
     
 }
+
+
+.article3 {
+    font-size: 70px;
+    text-align: center;
+    padding: 50px 60px;
+    position: relative;
+    top:50px;
+}
+
+.article4 {
+    font-size: 20px;
+    text-align: center;
+    padding: 50px 60px;
+    
+}
+
+
